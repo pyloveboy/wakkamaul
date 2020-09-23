@@ -1,5 +1,5 @@
 # wakkamaul
-This is a 6 line solution to Wakka Maul in Code Combat
+This is a 7 line solution to Wakka Maul in Code Combat
 
 try to code the level first before using this.*
 this is a very brute force method with spamming loops.
